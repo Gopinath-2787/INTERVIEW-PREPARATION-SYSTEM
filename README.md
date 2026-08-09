@@ -23,6 +23,13 @@ An Agentic AI-based interview preparation system built using Streamlit and the G
 - Feedback Agent
 - Memory Agent
 
+## Project Video Demo
+
+
+https://github.com/user-attachments/assets/9926eb0e-e723-4367-a043-2e78dde068f3
+
+
+
 ## Project Architecture
 
 <img width="981" height="1280" alt="WhatsApp Image 2026-08-07 at 12 22 52 PM" src="https://github.com/user-attachments/assets/353dcd8d-d22b-4fdb-89bb-4b4d7c41fd4a" />
